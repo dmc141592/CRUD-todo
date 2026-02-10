@@ -105,10 +105,13 @@ without changing the frontend.
 
 ## Roadmap
 
-* [ ] Replace in-memory storage with a database
-* [ ] Add Docker and Docker Compose support
-* [ ] Add persistent storage layer
-* [ ] Optional: authentication and authorization
+- [x] Initial project setup
+- [x] React frontend (CRUD UI)
+- [x] Express REST API
+- [x] Frontend–backend integration
+- [ ] Replace in-memory storage with a database
+- [ ] Add Docker and Docker Compose support
+- [ ] Add authentication and authorization
 
 ---
 
