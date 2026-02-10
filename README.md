@@ -49,10 +49,7 @@ crud-todo/
 └─ README.md
 
 
-Klar 👍 hier ist der **sauber formatierte Markdown-Text**, **1:1 kopierbar** für dein `README.md`.
-Du kannst ihn einfach einfügen, **ohne etwas anzupassen**.
 
----
 
 ````md
 ## Getting Started
