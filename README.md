@@ -111,10 +111,10 @@ without changing the frontend.
 * [ ] Optional: authentication and authorization
 
 ```
-
+```
 ### Tooling
 - npm
 - Git & GitHub
 - Visual Studio Code
-
+```
 
