@@ -112,5 +112,9 @@ without changing the frontend.
 
 ```
 
+### Tooling
+- npm
+- Git & GitHub
+- Visual Studio Code
 
 
