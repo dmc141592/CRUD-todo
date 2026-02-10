@@ -47,3 +47,73 @@ crud-todo/
 │  └─ server.js
 ├─ package.json
 └─ README.md
+
+
+Klar 👍 hier ist der **sauber formatierte Markdown-Text**, **1:1 kopierbar** für dein `README.md`.
+Du kannst ihn einfach einfügen, **ohne etwas anzupassen**.
+
+---
+
+````md
+## Getting Started
+
+### Frontend
+
+```bash
+npm install
+npm start
+````
+
+The frontend runs by default on:
+
+```
+http://localhost:3000
+```
+
+---
+
+### Backend
+
+```bash
+cd todo-backend
+npm install
+npm run dev
+```
+
+The backend REST API runs on:
+
+```
+http://localhost:3001
+```
+
+---
+
+## API Overview
+
+* `GET /todos` – Get all todos
+* `POST /todos` – Create a new todo
+* `PUT /todos/:id` – Update an existing todo
+* `DELETE /todos/:id` – Delete a todo
+
+---
+
+## Notes
+
+This project currently uses in-memory storage for simplicity.
+The backend is intentionally structured so that it can be replaced with a
+database-backed implementation (e.g. PostgreSQL or MongoDB using Docker)
+without changing the frontend.
+
+---
+
+## Roadmap
+
+* [ ] Replace in-memory storage with a database
+* [ ] Add Docker and Docker Compose support
+* [ ] Add persistent storage layer
+* [ ] Optional: authentication and authorization
+
+```
+
+
+
