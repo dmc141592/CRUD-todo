@@ -112,7 +112,7 @@ without changing the frontend.
 
 ---
 
-### Tooling
+## Tooling
 - npm
 - Git & GitHub
 - Visual Studio Code
