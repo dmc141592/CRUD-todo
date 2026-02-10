@@ -110,11 +110,11 @@ without changing the frontend.
 * [ ] Add persistent storage layer
 * [ ] Optional: authentication and authorization
 
-```
-```
+---
+
 ### Tooling
 - npm
 - Git & GitHub
 - Visual Studio Code
-```
+
 
